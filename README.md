@@ -65,7 +65,7 @@
 - [Box86](https://box86.org/) _- Linux Userspace x86 Emulator with a Twist_
 - [Box64](https://github.com/ptitSeb/box64) _- Linux Userspace x86_64 Emulator with a twist_
 - [FreeDoom](https://freedoom.github.io/) _- An entirely free software game based on the Doom engine_
-- [Freeciv](http://freeciv.org/) _ -Free and Open Source empire-building strategy game inspired by the history of human civilization_
+- [Freeciv](http://freeciv.org/) _- Free and Open Source empire-building strategy game inspired by the history of human civilization_
 - [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) _- Traditional roguelike dungeon crawler RPG that’s simple to get into but hard to master_
 - [SuperTux](https://www.supertux.org/) _- Open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games_
 - [SuperTuxKart](https://supertuxkart.net/) _- 3D open-source arcade racer with a variety characters, tracks, and modes to play_
