@@ -19,6 +19,7 @@
 - [Signal](https://www.signal.org/) _- Simple, powerful, and secure messenger_
 - [Zulip](https://zulip.com/) _- Chat for distributed teams_
 - [PCManFM](https://github.com/lxde/pcmanfm) _-Extremely fast and lightweight file manager_
+- [muCommander](https://www.mucommander.com/) _- Dual-pane file manager available on all major operating systems_
 - [Galculator](http://galculator.mnim.org/) _- A GTK 2 / GTK 3 algebraic and RPN calculator_
 - [Xed](https://github.com/linuxmint/xed) _- X-Apps small and lightweight text editor_
 - [GNU Nano](https://www.nano-editor.org/) _- A small editor for on the terminal_
@@ -49,8 +50,6 @@
 
 - [VLC Media Player](https://www.videolan.org/vlc/) _- Free and open source cross-platform multimedia player and framework_
 - [Jellyfin](https://jellyfin.org/) _- Free Software Media System_
-- [Kdenlive](https://kdenlive.org/en/) _- Free and Open Source Video Editor_
-- [Kazam](https://launchpad.net/kazam) _- A screencasting program created with design in mind_
 - [FreeTube](https://freetubeapp.io/) _- An Open Source YouTube app for privacy_
 - [Lovspotify](https://github.com/spocon/lovspotify) _- Lovspotify Spotify Client for Raspberry Pi, Ubuntu and Debian_
 - [Audacious](https://audacious-media-player.org/) _- An open source audio player_
@@ -134,12 +133,16 @@
 - [Piskel](https://www.piskelapp.com/) _- Free online editor for animated sprites & pixel art_
 - [Tiled](https://www.mapeditor.org/) _- Free and open source, easy to use, and flexible level editor._
 
+### Video & Movie Production
+
+- [Kdenlive](https://kdenlive.org/en/) _- Free and Open Source Video Editor_
+- [Kazam](https://launchpad.net/kazam) _- A screencasting program created with design in mind_
+
 ---
 
 ## Currently not in use, but it works well
 
 - [Oh My Zsh](https://ohmyz.sh/) _- Community-driven framework for managing your zsh configuration_
-- [muCommander](https://www.mucommander.com/) _- Dual-pane file manager available on all major operating systems_
 - [Codex](https://codexnotes.com/) _- A free note-taking software for programmers and Computer Science students_
 - [QOwnNotes](https://www.qownnotes.org/) _- Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration_
 - [Sublime Text](https://www.sublimetext.com/) _- Text Editing, Done Right_
