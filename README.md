@@ -145,6 +145,7 @@
 
 - [Oh My Zsh](https://ohmyz.sh/) _- Community-driven framework for managing your zsh configuration_
 - [Codex](https://codexnotes.com/) _- A free note-taking software for programmers and Computer Science students_
+- [Helix](https://helix-editor.com/) _- A post-modern text editor._
 - [QOwnNotes](https://www.qownnotes.org/) _- Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration_
 - [Sublime Text](https://www.sublimetext.com/) _- Text Editing, Done Right_
 - [Sublime Merge](https://www.sublimemerge.com/) _- Git Client, done Sublime_
