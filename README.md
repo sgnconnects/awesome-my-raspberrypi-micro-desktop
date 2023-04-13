@@ -156,6 +156,7 @@
 - [Android Studio](https://developer.android.com/studio/) _- Get the official Integrated Development Environment (IDE) for Android app development_
 - [MEGASync](https://mega.io/syncing) _- Easy, automated synchronisation_
 - [Ebitengine](https://ebitengine.org/) _- A dead simple 2D game engine for Go_
+- [Beby](https://bevyengine.org/) _- A refreshingly simple data-driven game engine built in Rust_
 - [PixiJS](https://pixijs.com/) _- The HTML5 Creation Engine_
 - [Pyxel](https://github.com/kitao/pyxel) _- Retro game engine for Python_
 - [LÖVE](https://love2d.org/) _- Free 2D Game Engine_
