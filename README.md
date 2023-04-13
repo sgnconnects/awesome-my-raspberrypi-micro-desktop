@@ -2,6 +2,8 @@
 
 > _This **Awesome List** curates the software and libraries I'm using on my own Raspberry Pi micro-desktop. They **work great** on the Raspberry Pi 4 8GB RAM, **ARM64**._
 >
+> _The list is personalized to my experience, but may be useful to someone else._
+>
 > _Note that my Pi is fully **overclocked** and using **performance** governor._
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H119QQ8)
