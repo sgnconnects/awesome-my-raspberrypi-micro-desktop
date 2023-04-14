@@ -43,7 +43,6 @@
 - [LibreOffice](https://www.libreoffice.org/) _- A free and powerful office suite, and a successor to OpenOffice.org_
 - [Gnucash](https://www.gnucash.org/) _- Personal and small-business financial-accounting software_
 - [GhostWriter](https://invent.kde.org/office/ghostwriter) _- Text editor for Markdown_
-- [Poedit](https://poedit.net/) _- Powerful and intuitive translation editor_
 - [Deskreen](https://deskreen.com/) _- Turn any device into a secondary screen for your computer_
 - [GNU Privacy Guard](https://gnupg.org/) _- A complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP)_
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) _- A free open source disk encryption software_
@@ -79,6 +78,8 @@
 - [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) _- Command-line version of the Steam client_
 - [LAMP WordPress](https://projects.raspberrypi.org/en/projects/lamp-web-server-with-wordpress/) _- Linux, Apache, MySQL, PHP, WordPress_
 - [Jekyll + GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) _- You can use Jekyll, a popular static site generator, to further customize your GitHub Pages site_
+- [Thonny](https://thonny.org/) _- Python IDE for beginners._
+- [Poedit](https://poedit.net/) _- Powerful and intuitive translation editor_
 - [JUCE Projucer](https://juce.com/) _- Build Audio Applications and Plug-ins_
 - [QT Creator](https://www.qt.io/product/development-tools) _- A Cross-platform IDE for sofware development_
 - [FontForge](https://fontforge.org/) _- Open Source Font Editor_
