@@ -156,6 +156,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) _- Code editing. Redefined_
 - [Android Studio](https://developer.android.com/studio/) _- Get the official Integrated Development Environment (IDE) for Android app development_
 - [MEGASync](https://mega.io/syncing) _- Easy, automated synchronisation_
+- [Lutris](https://lutris.net/) _- Open Gaming Platform_
 - [Ebitengine](https://ebitengine.org/) _- A dead simple 2D game engine for Go_
 - [Beby](https://bevyengine.org/) _- A refreshingly simple data-driven game engine built in Rust_
 - [PixiJS](https://pixijs.com/) _- The HTML5 Creation Engine_
