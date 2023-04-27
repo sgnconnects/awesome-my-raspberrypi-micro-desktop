@@ -52,7 +52,6 @@
 - [VLC Media Player](https://www.videolan.org/vlc/) _- Free and open source cross-platform multimedia player and framework_
 - [Jellyfin](https://jellyfin.org/) _- Free Software Media System_
 - [FreeTube](https://freetubeapp.io/) _- An Open Source YouTube app for privacy_
-- [Lovspotify](https://github.com/spocon/lovspotify) _- Lovspotify Spotify Client for Raspberry Pi, Ubuntu and Debian_
 - [Audacious](https://audacious-media-player.org/) _- An open source audio player_
 - [Cava](https://github.com/karlstav/cava) _- Cross-platform Audio Visualizer_
 - [Picard](https://picard.musicbrainz.org/) _- Cross-platform music tagger powered by the MusicBrainz database._
@@ -169,3 +168,4 @@
 - [BeSpoke Synth](https://www.bespokesynth.com/) _- Software modular synthesizer_
 - [LMMS](https://lmms.io/) _- Cross-platform music production software_
 - [LibreSprite](https://libresprite.github.io/) _- A Free and open source program for creating and animating your sprites_
+- [Lovspotify](https://github.com/spocon/lovspotify) _- Lovspotify Spotify Client for Raspberry Pi, Ubuntu and Debian_
