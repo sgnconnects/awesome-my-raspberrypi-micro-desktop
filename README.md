@@ -1,6 +1,6 @@
 # Awesome My Raspberry Pi Micro Desktop
 
-> _This **Awesome List** curates the software and libraries I'm using on my own Raspberry Pi micro-desktop. They **work great** on the Raspberry Pi 4 8GB RAM, **ARM64**._
+> _This **Awesome List** curates the software and libraries I'm using on my own Raspberry Pi micro-desktop. They **work great** on the Raspberry Pi 4 8GB RAM, hybrid of **Arm64** and **Armhf**._
 >
 > _The list is personalized in my experience, but may be useful to someone else._
 >
@@ -20,8 +20,8 @@
 - [Simplenote](https://simplenote.com/) _-The simplest way to keep notes_
 - [Signal](https://www.signal.org/) _- Simple, powerful, and secure messenger_
 - [Zulip](https://zulip.com/) _- Chat for distributed teams_
+- [Spotifyd](https://spotifyd.rs/) _- An open source Spotify client running as a UNIX daemon_
 - [PCManFM](https://github.com/lxde/pcmanfm) _-Extremely fast and lightweight file manager_
-- [muCommander](https://www.mucommander.com/) _- Dual-pane file manager available on all major operating systems_
 - [Galculator](http://galculator.mnim.org/) _- A GTK 2 / GTK 3 algebraic and RPN calculator_
 - [Xed](https://github.com/linuxmint/xed) _- X-Apps small and lightweight text editor_
 - [GNU Nano](https://www.nano-editor.org/) _- A small editor for on the terminal_
@@ -153,6 +153,7 @@
 - [Sublime Text](https://www.sublimetext.com/) _- Text Editing, Done Right_
 - [Sublime Merge](https://www.sublimemerge.com/) _- Git Client, done Sublime_
 - [Visual Studio Code](https://code.visualstudio.com/) _- Code editing. Redefined_
+- [muCommander](https://www.mucommander.com/) _- Dual-pane file manager available on all major operating systems_
 - [Android Studio](https://developer.android.com/studio/) _- Get the official Integrated Development Environment (IDE) for Android app development_
 - [MEGASync](https://mega.io/syncing) _- Easy, automated synchronisation_
 - [Lutris](https://lutris.net/) _- Open Gaming Platform_
