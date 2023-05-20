@@ -20,7 +20,7 @@
 - [Simplenote](https://simplenote.com/) _-The simplest way to keep notes_
 - [Signal](https://www.signal.org/) _- Simple, powerful, and secure messenger_
 - [Zulip](https://zulip.com/) _- Chat for distributed teams_
-- [Spotifyd](https://spotifyd.rs/) _- An open source Spotify client running as a UNIX daemon_
+- [librespot-java](https://github.com/librespot-org/librespot-java) _- The most up-to-date open source Spotify client_
 - [PCManFM](https://github.com/lxde/pcmanfm) _-Extremely fast and lightweight file manager_
 - [Galculator](http://galculator.mnim.org/) _- A GTK 2 / GTK 3 algebraic and RPN calculator_
 - [Xed](https://github.com/linuxmint/xed) _- X-Apps small and lightweight text editor_
