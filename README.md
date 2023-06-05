@@ -16,6 +16,7 @@
 
 - [Raspberry Pi OS](https://www.raspberrypi.com/software/) _- RasPiOS, the official operating system for Raspberry Pi_
 - [Min](https://minbrowser.org/) _- A fast, minimal browser that protects your privacy_
+- [Vieb](https://vieb.dev/) _- Vim Inspired Electron Browser_
 - [Proton Apps](https://protonapps.com/) _- A resource from Proton AG (the team behind Proton Mail and Proton VPN)_
 - [Simplenote](https://simplenote.com/) _-The simplest way to keep notes_
 - [Signal](https://www.signal.org/) _- Simple, powerful, and secure messenger_
