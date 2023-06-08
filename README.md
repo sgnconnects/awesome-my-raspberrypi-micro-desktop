@@ -16,7 +16,6 @@
 
 - [Raspberry Pi OS](https://www.raspberrypi.com/software/) _- RasPiOS, the official operating system for Raspberry Pi_
 - [Min](https://minbrowser.org/) _- A fast, minimal browser that protects your privacy_
-- [Vieb](https://vieb.dev/) _- Vim Inspired Electron Browser_
 - [Proton Apps](https://protonapps.com/) _- A resource from Proton AG (the team behind Proton Mail and Proton VPN)_
 - [Simplenote](https://simplenote.com/) _-The simplest way to keep notes_
 - [Signal](https://www.signal.org/) _- Simple, powerful, and secure messenger_
@@ -148,6 +147,7 @@
 ## Currently not in use, but it works well
 
 - [Oh My Zsh](https://ohmyz.sh/) _- Community-driven framework for managing your zsh configuration_
+- [Vieb](https://vieb.dev/) _- Vim Inspired Electron Browser_
 - [Codex](https://codexnotes.com/) _- A free note-taking software for programmers and Computer Science students_
 - [Helix](https://helix-editor.com/) _- A post-modern text editor._
 - [QOwnNotes](https://www.qownnotes.org/) _- Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration_
