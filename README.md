@@ -2,9 +2,7 @@
 
 > _This **Awesome List** curates the software and libraries I'm using on my own Raspberry Pi micro-desktop. They **work great** on the Raspberry Pi 4 8GB RAM, hybrid of **Arm64** and **Armhf**._
 >
-> _The list is personalized in my experience, but may be useful to someone else._
->
-> _Note that my Pi is fully **overclocked** and using **performance** governor._
+> _The list is personalized in my experience, but may be useful to someone else. Note that my Pi is fully **overclocked** and using **performance** governor._
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H119QQ8)
 
@@ -16,6 +14,7 @@
 
 - [Raspberry Pi OS](https://www.raspberrypi.com/software/) _- RasPiOS, the official operating system for Raspberry Pi_
 - [Min](https://minbrowser.org/) _- A fast, minimal browser that protects your privacy_
+- [Vieb](https://vieb.dev/) _- Vim Inspired Electron Browser_
 - [Proton Apps](https://protonapps.com/) _- A resource from Proton AG (the team behind Proton Mail and Proton VPN)_
 - [Simplenote](https://simplenote.com/) _-The simplest way to keep notes_
 - [Signal](https://www.signal.org/) _- Simple, powerful, and secure messenger_
@@ -59,7 +58,6 @@
 
 ### Game Play
 
-- [GameHub](https://tkashkin.github.io/projects/gamehub/) _- All your games in one place_
 - [Steam](https://store.steampowered.com/) _- Video game digital distribution service and storefront from Valve_
 - [Box86](https://box86.org/) _- Linux Userspace x86 Emulator with a Twist_
 - [Box64](https://github.com/ptitSeb/box64) _- Linux Userspace x86_64 Emulator with a twist_
@@ -130,12 +128,13 @@
 
 - [Gimp](https://www.gimp.org/) _- GNU Image Manipulation Program_
 - [InkScape](https://inkscape.org/) _- Free and open source vector graphics editor_
+- [Glaxnimate](https://glaxnimate.mattbas.org/) _-simple and fast vector graphics animation program_
+- [Piskel](https://www.piskelapp.com/) _- Free online editor for animated sprites & pixel art_
+- [Tiled](https://www.mapeditor.org/) _- Free and open source, easy to use, and flexible level editor._
 - [FreeCad](https://www.freecad.org/) _- Your own 3D parametric modeler_
 - [Blender](https://www.blender.org/) _- The Free and Open Source 3D Creation Suite_
 - [Goxel](https://goxel.xyz/) _- Open Source Voxel Editor_
 - [MakeHuman](http://www.makehumancommunity.org/) _- Open source 3d modeler, ray tracer and a whole lot else_
-- [Piskel](https://www.piskelapp.com/) _- Free online editor for animated sprites & pixel art_
-- [Tiled](https://www.mapeditor.org/) _- Free and open source, easy to use, and flexible level editor._
 
 ### Video & Movie Production
 
@@ -147,19 +146,18 @@
 ## Currently not in use, but it works well
 
 - [Oh My Zsh](https://ohmyz.sh/) _- Community-driven framework for managing your zsh configuration_
-- [Vieb](https://vieb.dev/) _- Vim Inspired Electron Browser_
 - [Codex](https://codexnotes.com/) _- A free note-taking software for programmers and Computer Science students_
 - [Helix](https://helix-editor.com/) _- A post-modern text editor._
 - [QOwnNotes](https://www.qownnotes.org/) _- Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration_
+- [Scribus](https://www.scribus.net/) _- Open Source Desktop Publishing_
 - [Sublime Text](https://www.sublimetext.com/) _- Text Editing, Done Right_
 - [Sublime Merge](https://www.sublimemerge.com/) _- Git Client, done Sublime_
 - [Visual Studio Code](https://code.visualstudio.com/) _- Code editing. Redefined_
 - [muCommander](https://www.mucommander.com/) _- Dual-pane file manager available on all major operating systems_
 - [Android Studio](https://developer.android.com/studio/) _- Get the official Integrated Development Environment (IDE) for Android app development_
 - [MEGASync](https://mega.io/syncing) _- Easy, automated synchronisation_
-- [Lutris](https://lutris.net/) _- Open Gaming Platform_
+- [GameHub](https://tkashkin.github.io/projects/gamehub/) _- All your games in one place_
 - [Ebitengine](https://ebitengine.org/) _- A dead simple 2D game engine for Go_
-- [Bevy](https://bevyengine.org/) _- A refreshingly simple data-driven game engine built in Rust_
 - [PixiJS](https://pixijs.com/) _- The HTML5 Creation Engine_
 - [Pyxel](https://github.com/kitao/pyxel) _- Retro game engine for Python_
 - [LÖVE](https://love2d.org/) _- Free 2D Game Engine_
@@ -169,5 +167,8 @@
 - [Three.js](https://threejs.org/) _- JavaScript 3D Library_
 - [BeSpoke Synth](https://www.bespokesynth.com/) _- Software modular synthesizer_
 - [LMMS](https://lmms.io/) _- Cross-platform music production software_
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) _- A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!_
 - [LibreSprite](https://libresprite.github.io/) _- A Free and open source program for creating and animating your sprites_
+- [Pencil2D](https://www.pencil2d.org) _- Open Source animation software_
+- [Synfig](https://www.synfig.org) _- Free and open-source animation software_
 - [Lovspotify](https://github.com/spocon/lovspotify) _- Lovspotify Spotify Client for Raspberry Pi, Ubuntu and Debian_
