@@ -16,11 +16,11 @@
 - [Min](https://minbrowser.org/) _- A fast, minimal browser that protects your privacy_
 - [Vieb](https://vieb.dev/) _- Vim Inspired Electron Browser_
 - [Proton Apps](https://protonapps.com/) _- A resource from Proton AG (the team behind Proton Mail and Proton VPN)_
-- [Simplenote](https://simplenote.com/) _-The simplest way to keep notes_
+- [Simplenote](https://simplenote.com/) _- The simplest way to keep notes_
 - [Signal](https://www.signal.org/) _- Simple, powerful, and secure messenger_
 - [Zulip](https://zulip.com/) _- Chat for distributed teams_
 - [librespot-java](https://github.com/librespot-org/librespot-java) _- The most up-to-date open source Spotify client_
-- [PCManFM](https://github.com/lxde/pcmanfm) _-Extremely fast and lightweight file manager_
+- [PCManFM](https://github.com/lxde/pcmanfm) _- Extremely fast and lightweight file manager_
 - [Galculator](http://galculator.mnim.org/) _- A GTK 2 / GTK 3 algebraic and RPN calculator_
 - [Xed](https://github.com/linuxmint/xed) _- X-Apps small and lightweight text editor_
 - [GNU Nano](https://www.nano-editor.org/) _- A small editor for on the terminal_
@@ -65,7 +65,7 @@
 - [Freeciv](http://freeciv.org/) _- Free and Open Source empire-building strategy game inspired by the history of human civilization_
 - [Project OutFox](https://projectoutfox.com/) _- Extensible rhythm game engine based on StepMania, featuring 18 different modes simulating different dance, instrument, and key-based rhythm games._
 - [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) _- Traditional roguelike dungeon crawler RPG that’s simple to get into but hard to master_
-- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) _-Turn-based survival game set in a post-apocalyptic world._
+- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) _- Turn-based survival game set in a post-apocalyptic world._
 - [SuperTux](https://www.supertux.org/) _- Open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games_
 - [SuperTuxKart](https://supertuxkart.net/) _- 3D open-source arcade racer with a variety characters, tracks, and modes to play_
 - [Minetest](https://www.minetest.net/) _- An open source voxel game engine_
