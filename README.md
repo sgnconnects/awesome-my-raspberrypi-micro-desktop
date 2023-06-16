@@ -128,7 +128,7 @@
 
 - [Gimp](https://www.gimp.org/) _- GNU Image Manipulation Program_
 - [InkScape](https://inkscape.org/) _- Free and open source vector graphics editor_
-- [Glaxnimate](https://glaxnimate.mattbas.org/) _-simple and fast vector graphics animation program_
+- [Glaxnimate](https://glaxnimate.mattbas.org/) _- Simple and fast vector graphics animation program_
 - [Piskel](https://www.piskelapp.com/) _- Free online editor for animated sprites & pixel art_
 - [Tiled](https://www.mapeditor.org/) _- Free and open source, easy to use, and flexible level editor._
 - [FreeCad](https://www.freecad.org/) _- Your own 3D parametric modeler_
