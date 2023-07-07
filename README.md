@@ -145,6 +145,7 @@
 
 ## Currently not in use, but it works well
 
+- [Ferdium](https://ferdium.org/) _- All your services in one place, built by the community_
 - [Oh My Zsh](https://ohmyz.sh/) _- Community-driven framework for managing your zsh configuration_
 - [Codex](https://codexnotes.com/) _- A free note-taking software for programmers and Computer Science students_
 - [Helix](https://helix-editor.com/) _- A post-modern text editor._
